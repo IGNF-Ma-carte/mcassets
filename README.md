@@ -32,3 +32,11 @@ Author:  Le Testu, Guillaume
 Author:  JACQUES DEVAULX   
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b550024840/) © Public Domain   
 <img src="./img/marin/swordfish_btv1b550024840_88.png" height="100" /> <img src="./img/marin/dolphin_btv1b550024840_88.png" height="150" />
+
+## Animals
+
+###  Cosmographie universelle (1555)
+Author:  Le Testu, Guillaume
+[BnF](https://gallica.bnf.fr/ark:/12148/btv1b8447838j/) © Public Domain    
+<img src="./img/animal/deer-btv1b8447838j_108.png" height="150" /> <img src="./img/animal/bear-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/heron-btv1b8447838j_108.png" height="100" />
+
