@@ -38,5 +38,5 @@ Author:  JACQUES DEVAULX
 ###  Cosmographie universelle (1555)
 Author:  Le Testu, Guillaume
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b8447838j/) © Public Domain    
-<img src="./img/animal/deer-btv1b8447838j_108.png" height="150" /> <img src="./img/animal/bear-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/heron-btv1b8447838j_108.png" height="100" />
+<img src="./img/animal/deer-btv1b8447838j_108.png" height="150" /> <img src="./img/animal/bear-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/heron-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/monkey-btv1b8447838j_96.png" height="100" />
 
