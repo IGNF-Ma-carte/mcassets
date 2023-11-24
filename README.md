@@ -5,7 +5,7 @@ List of assets you can use in your maps.
 
 ## Ships
 ### « Les premieres Œuvres de JACQUES DEVAULX, pillote en la marine ».
-Author:  JACQUES DEVAULX   
+Author:  JACQUES DEVAULX
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b550024840/f67.item) © Public Domain   
 <img src="./img/portulan/ark-12148-btv1b550024840-f67-1.png" height="150" /> <img src="./img/portulan/ark-12148-btv1b550024840-f67-2.png" height="150" /> <img src="./img/portulan/ark-12148-btv1b550024840-f67-3.png" height="150" /> <img src="./img/portulan/ark-12148-btv1b550024840-f67-4.png" height="150" />
 
@@ -29,7 +29,7 @@ Author:  Le Testu, Guillaume
 ## Sea creatures
 
 ### « Les premieres Œuvres de JACQUES DEVAULX, pillote en la marine ».
-Author:  JACQUES DEVAULX   
+Author:  JACQUES DEVAULX
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b550024840/) © Public Domain   
 <img src="./img/marin/swordfish_btv1b550024840_88.png" height="100" /> <img src="./img/marin/dolphin_btv1b550024840_88.png" height="150" />
 
@@ -38,5 +38,5 @@ Author:  JACQUES DEVAULX
 ###  Cosmographie universelle (1555)
 Author:  Le Testu, Guillaume
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b8447838j/) © Public Domain    
-<img src="./img/animal/deer-btv1b8447838j_108.png" height="150" /> <img src="./img/animal/bear-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/heron-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/monkey-btv1b8447838j_96.png" height="100" />
+<img src="./img/animal/deer-btv1b8447838j_108.png" height="150" /> <img src="./img/animal/bear-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/heron-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/monkey-btv1b8447838j_96.png" height="100" /> <img src="./img/animal/leopard-btv1b8447838j_96.png" height="100" />
 
