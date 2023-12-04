@@ -3,7 +3,15 @@
 
 List of assets you can use in your maps.
 
+## Compass
+
+###  Cosmographie universelle (1555)
+Author:  Le Testu, Guillaume
+[BnF](https://gallica.bnf.fr/ark:/12148/btv1b8447838j/) © Public Domain    
+<img src="./img/compass/bnf-btv1b8447838j-116.png" height="150" />
+
 ## Ships
+
 ### « Les premieres Œuvres de JACQUES DEVAULX, pillote en la marine ».
 Author:  JACQUES DEVAULX
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b550024840/f67.item) © Public Domain   
