@@ -17,6 +17,10 @@ Author:  JACQUES DEVAULX
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b550024840/f67.item) © Public Domain   
 <img src="./img/portulan/ark-12148-btv1b550024840-f67-1.png" height="150" /> <img src="./img/portulan/ark-12148-btv1b550024840-f67-2.png" height="150" /> <img src="./img/portulan/ark-12148-btv1b550024840-f67-3.png" height="150" /> <img src="./img/portulan/ark-12148-btv1b550024840-f67-4.png" height="150" />
 
+### Hendrick & Arnold Van Langren (1599)
+[BnF](https://gallica.bnf.fr/ark:/12148/btv1b84684314/) © Public Domain  
+<img src="./img/portulan/bnf-btv1b84684314-1.png" height="150" /> <img src="./img/portulan/bnf-btv1b84684314-2.png" height="150" />
+
 ## Monsters
 
 ### Côte depuis la Pointe du Grouin jusqu'au Cap Fréhel - 1600-1799
@@ -27,6 +31,11 @@ Author:  JACQUES DEVAULX
 Author:  Le Testu, Guillaume
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b8447838j/) © Public Domain    
 <img src="./img/monster/bnf-btv1b8447838j-f74.png" height="100" />
+
+### Hendrick & Arnold Van Langren (1599)
+[BnF](https://gallica.bnf.fr/ark:/12148/btv1b84684314/) © Public Domain  
+<img src="./img/monster/bnf-btv1b84684314-1.png" height="100" /> <img src="./img/monster/bnf-btv1b84684314-2.png" height="100" /> <img src="./img/monster/bnf-btv1b84684314-3.png" height="100" /> 
+
 
 ## Mythology
 
@@ -47,4 +56,8 @@ Author:  JACQUES DEVAULX
 Author:  Le Testu, Guillaume
 [BnF](https://gallica.bnf.fr/ark:/12148/btv1b8447838j/) © Public Domain    
 <img src="./img/animal/deer-btv1b8447838j_108.png" height="150" /> <img src="./img/animal/bear-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/heron-btv1b8447838j_108.png" height="100" /> <img src="./img/animal/monkey-btv1b8447838j_96.png" height="100" /> <img src="./img/animal/leopard-btv1b8447838j_96.png" height="100" />
+
+### Hendrick & Arnold Van Langren (1599)
+[BnF](https://gallica.bnf.fr/ark:/12148/btv1b84684314/) © Public Domain    
+<img src="./img/animal/camel-btv1b84684314.png" height="100" /> <img src="./img/animal/elephant-btv1b84684314.png" height="100" /> <img src="./img/animal/giraffe-btv1b84684314.png" height="120" /> <img src="./img/animal/rhinoceros-btv1b84684314.png" height="100" />
 
